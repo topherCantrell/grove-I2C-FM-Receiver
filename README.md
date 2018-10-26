@@ -1,6 +1,6 @@
 # Grove - I2C FM Receiver
 
-![](https://github.com/topherCantrell/grove-I2C-FM-Receiver/blob/master/art/pifm.jpg)
+![](art/pifm.jpg)
 
 ## Links
 
